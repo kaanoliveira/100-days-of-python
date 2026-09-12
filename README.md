@@ -6,7 +6,7 @@ do professor e só depois comparo.
 
 Faz parte de uma trilha própria de cerca de 400 horas de estudo em dados, backend e IA
 aplicada, iniciada em 12/09/2026. A trilha usa os dias 1 a 30 (fundamentos e orientação a
-objetos) e 72 a 81 (análise de dados). Os demais dias ficam para depois.
+objetos) e 72 a 81 (análise de dados). Os demais dias serão priorizados futuramente.
 
 ## Progresso
 
