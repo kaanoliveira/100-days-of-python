@@ -1,3 +1,4 @@
 username = input("What is your name?")
-lenght = len('username')
-print(lenght)
+length = len(username)
+print(length)
+print(type(username))
