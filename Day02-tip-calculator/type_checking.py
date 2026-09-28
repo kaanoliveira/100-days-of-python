@@ -1,4 +1,4 @@
-len(12345) >> TypeError: object of type 'int' has no len()
+len(12345) ## TypeError: object of type 'int' has no len()
 len("12345") 
 
 
