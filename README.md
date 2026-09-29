@@ -26,6 +26,7 @@ Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp*.
 | 05 | [Password Generator](Day05-password-generator) | for loops, range, code blocks |
 | 06 | [Escaping the Maze](Day06-escaping-the-maze) | functions, while loops, code bricks |
 | 07 | [Hangman](Day07-hangman) | while loops, lists, ASCII art |
+| 08 | [Caesar Cipher](Day08-caesar-cipher) | functions with inputs, arguments |
 
 ## Repository Structure
 
