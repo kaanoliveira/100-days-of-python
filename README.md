@@ -27,6 +27,7 @@ Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp*.
 | 06 | [Escaping the Maze](Day06-escaping-the-maze) | functions, while loops, code bricks |
 | 07 | [Hangman](Day07-hangman) | while loops, lists, ASCII art |
 | 08 | [Caesar Cipher](Day08-caesar-cipher) | functions with inputs, arguments |
+| 09 | [Secret Auction](Day09-secret-auction) | dictionaries, nesting |
 
 ## Repository Structure
 
