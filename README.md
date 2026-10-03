@@ -52,4 +52,4 @@ files are not published here.
 ## Acknowledgements
 
 Special thanks to [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/) for this
-great python bootcamp.
+great Python bootcamp.
