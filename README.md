@@ -29,6 +29,7 @@ Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp*.
 | 08 | [Caesar Cipher](Day08-caesar-cipher) | functions with inputs, arguments |
 | 09 | [Secret Auction](Day09-secret-auction) | dictionaries, nesting |
 | 10 | [Calculator](Day10-calculator) | functions with outputs, return, docstrings |
+| 11 | [Blackjack](Day11-blackjack) | capstone project, functions, lists |
 
 ## Repository Structure
 
