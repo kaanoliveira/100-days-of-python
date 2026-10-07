@@ -30,6 +30,7 @@ Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp*.
 | 09 | [Secret Auction](Day09-secret-auction) | dictionaries, nesting |
 | 10 | [Calculator](Day10-calculator) | functions with outputs, return, docstrings |
 | 11 | [Blackjack](Day11-blackjack) | capstone project, functions, lists |
+| 12 | [Number Guessing Game](Day12-number-guessing-game) | scope, global constants |
 
 ## Repository Structure
 
