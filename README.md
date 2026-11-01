@@ -50,8 +50,9 @@ Python 3 is the only requirement. Each file runs on its own, for example:
 
 ## Notes
 
-This repository contains only code written by me. Course videos, slides and instructor
-files are not published here.
+All the code here is written by me. A few data and art files come with the course and
+are kept in their folders so the projects run as intended. Course videos and slides are
+not published here.
 
 ## Acknowledgements
 
