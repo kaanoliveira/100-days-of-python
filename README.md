@@ -33,6 +33,7 @@ Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp*.
 | 12 | [Number Guessing Game](Day12-number-guessing-game) | scope, global constants |
 | 13 | [Debugging](Day13-debugging) | debugging techniques, try/except |
 | 14 | [Higher Lower Game](Day14-higher-lower-game) | dictionaries in lists, functions, booleans |
+| 15 | [Coffee Machine](Day15-coffee-machine) | local development environment, nested dictionaries |
 
 ## Repository Structure
 
